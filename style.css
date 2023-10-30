@@ -1,21 +1,28 @@
-.caixinha{ 
-background-color:var(--cor-de-fundo);
+
+body{ 
+    background-color: rgb(245, 190, 220);
+    font-size: 20px;
+
 }
+
 h1{ 
-    background-color: rgb(4, 13, 20);
-    border: radius 20cm; 
-    background-position: 10cm;
+    background-color: rgb(194, 66, 145);
+    border-radius: 15cm;
+    background-position: 5cm;
+    font-family: 'Roboto Slab', serif;
 }
-.caixinha{ 
-    background-color: rgb(182, 0, 0);
-    color: antiquewhite;
+h2{ 
+    background-color: rgb(238, 173, 211);
+    color: rgb(255, 255, 255);
     text-decoration: none;
-    padding: 20px;
-    border-radius: 30px;
+    padding: 15px;
+    border-radius: 25px;
 }
-header{ background-color: var(--cor-do-titulo);}
+header{background-color: var(--cor-do-titulo); }
 h1{ 
     text-align: center;
-    color: blueviolet;
-    text-decoration: underline;
-}
+    color: aliceblue;
+    text-decoration: underline;}
+    .imagem-principal{
+        width: 600px;
+    }
